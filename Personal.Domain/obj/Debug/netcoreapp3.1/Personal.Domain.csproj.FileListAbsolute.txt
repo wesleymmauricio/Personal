@@ -1,0 +1,8 @@
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Domain\bin\Debug\netcoreapp3.1\Personal.Domain.deps.json
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Domain\bin\Debug\netcoreapp3.1\Personal.Domain.dll
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Domain\bin\Debug\netcoreapp3.1\Personal.Domain.pdb
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Domain\obj\Debug\netcoreapp3.1\Personal.Domain.csprojAssemblyReference.cache
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Domain\obj\Debug\netcoreapp3.1\Personal.Domain.AssemblyInfoInputs.cache
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Domain\obj\Debug\netcoreapp3.1\Personal.Domain.AssemblyInfo.cs
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Domain\obj\Debug\netcoreapp3.1\Personal.Domain.dll
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Domain\obj\Debug\netcoreapp3.1\Personal.Domain.pdb
