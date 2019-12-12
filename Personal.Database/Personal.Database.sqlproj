@@ -57,10 +57,23 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Tables" />
+    <Folder Include="Procedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\User.sql" />
     <Build Include="Tables\Curso.sql" />
     <Build Include="Tables\Livro.sql" />
+    <Build Include="Procedures\User_Add.sql" />
+    <Build Include="Procedures\Curso_Add.sql" />
+    <Build Include="Procedures\Curso_Delete.sql" />
+    <Build Include="Procedures\Curso_GetById.sql" />
+    <Build Include="Procedures\Curso_Update.sql" />
+    <Build Include="Procedures\Livro_Add.sql" />
+    <Build Include="Procedures\Livro_Delete.sql" />
+    <Build Include="Procedures\Livro_GetById.sql" />
+    <Build Include="Procedures\Livro_Update.sql" />
+    <Build Include="Procedures\User_Delete.sql" />
+    <Build Include="Procedures\User_GetById.sql" />
+    <Build Include="Procedures\User_Update.sql" />
   </ItemGroup>
 </Project>
