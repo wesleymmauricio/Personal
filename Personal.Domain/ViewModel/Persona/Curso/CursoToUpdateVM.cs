@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Personal.Domain.ViewModel.Persona.Curso
 {
-    class CursoToUpdateVM
+    public class CursoToUpdateVM
     {
         [Key]
         [Required(ErrorMessage = "CursoId required")]
