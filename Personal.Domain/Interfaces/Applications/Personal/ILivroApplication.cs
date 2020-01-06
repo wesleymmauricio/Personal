@@ -1,4 +1,5 @@
-﻿using Personal.Domain.ViewModel.Persona.Livro;
+﻿using Personal.Domain.Entities.Personal;
+using Personal.Domain.ViewModel.Persona.Livro;
 using System.Collections.Generic;
 
 namespace Personal.Domain.Interfaces.Applications.Personal
@@ -7,8 +8,8 @@ namespace Personal.Domain.Interfaces.Applications.Personal
     {
         LivroToQueryVM GetById(int livroId);
         IEnumerable<LivroToQueryVM> GetAll();
-        int Add(LivroToInsertVM livro);
-        void Update(LivroToUpdateVM livro);
+        int Add(Livro livro);
+        void Update(Livro livro);
         void Delete(int livroId);
     }
 }

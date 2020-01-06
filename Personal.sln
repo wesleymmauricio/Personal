@@ -9,7 +9,9 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Personal.Database", "Person
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.Repository", "Personal.Repository\Personal.Repository.csproj", "{5D9831D4-7727-4D80-A8BF-54316066EC3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal.API", "Personal.API\Personal.API.csproj", "{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.API", "Personal.API\Personal.API.csproj", "{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal.Application", "Personal.Application\Personal.Application.csproj", "{6094D319-470C-4139-804E-F285FF4EE32D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6094D319-470C-4139-804E-F285FF4EE32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6094D319-470C-4139-804E-F285FF4EE32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6094D319-470C-4139-804E-F285FF4EE32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6094D319-470C-4139-804E-F285FF4EE32D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
