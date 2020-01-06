@@ -12,6 +12,8 @@ BEGIN
 	
 	SET NOCOUNT ON
 
+	DECLARE @ReturnTable Table(LivroId INT)
+
 	INSERT INTO [Livro] (
 		Titulo,
 		Editora,
@@ -21,6 +23,7 @@ BEGIN
 		LastUpdatedBy,
 		LastUpdatedDate
 	)
+	OUTPUT inserted.LivroId INTO @ReturnTable
 	VALUES(
 		@Titulo,
 		@Editora,
@@ -30,4 +33,6 @@ BEGIN
 		@LastUpdatedBy,
 		@LastUpdatedDate
 	)
+
+	SELECT LivroId FROM @ReturnTable
 END

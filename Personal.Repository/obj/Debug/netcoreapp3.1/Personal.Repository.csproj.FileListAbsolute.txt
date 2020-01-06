@@ -1,0 +1,8 @@
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Repository.deps.json
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Repository.dll
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Domain.dll
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Domain.pdb
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.csprojAssemblyReference.cache
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.AssemblyInfoInputs.cache
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.AssemblyInfo.cs
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.csproj.CopyComplete

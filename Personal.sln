@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.Domain", "Personal
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Personal.Database", "Personal.Database\Personal.Database.sqlproj", "{3DA3418E-5091-4723-8D44-A4370760433C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal.Repository", "Personal.Repository\Personal.Repository.csproj", "{5D9831D4-7727-4D80-A8BF-54316066EC3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.Repository", "Personal.Repository\Personal.Repository.csproj", "{5D9831D4-7727-4D80-A8BF-54316066EC3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personal.API", "Personal.API\Personal.API.csproj", "{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{5D9831D4-7727-4D80-A8BF-54316066EC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D9831D4-7727-4D80-A8BF-54316066EC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D9831D4-7727-4D80-A8BF-54316066EC3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD9FF89-63F4-4C41-92A9-89C931C0A43B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE User_Add(
+﻿CREATE PROCEDURE [dbo].[User_Add](
 	@PrimeiroNome VARCHAR(50),
 	@UltimoNome VARCHAR(50),
 	@CreatedBy INT,
@@ -11,6 +11,8 @@ BEGIN
 	
 	SET NOCOUNT ON
 
+	DECLARE @ReturnTable TABLE(UserId INT)
+
 	INSERT INTO [User] (
 		PrimeiroNome,
 		UltimoNome,
@@ -19,6 +21,7 @@ BEGIN
 		LastUpdatedBy,
 		LastUpdatedDate
 	)
+	OUTPUT inserted.UserId INTO @ReturnTable
 	VALUES(
 		@PrimeiroNome,
 		@UltimoNome,
@@ -27,4 +30,6 @@ BEGIN
 		@LastUpdatedBy,
 		@LastUpdatedDate
 	)
+
+	SELECT UserId FROM @ReturnTable
 END

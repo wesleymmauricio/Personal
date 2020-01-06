@@ -12,6 +12,8 @@ BEGIN
 	
 	SET NOCOUNT ON
 
+	DECLARE @ReturnTable Table(CursoId INT)
+
 	INSERT INTO [Curso] (
 		NomeCurso,
 		DataInicio,
@@ -21,6 +23,7 @@ BEGIN
 		LastUpdatedBy,
 		LastUpdatedDate
 	)
+	OUTPUT inserted.CursoId INTO @ReturnTable
 	VALUES(
 		@NomeCurso, 
 		@DataInicio,
@@ -30,4 +33,6 @@ BEGIN
 		@LastUpdatedBy,
 		@LastUpdatedDate
 	)
+
+	SELECT CursoId FROM @ReturnTable
 END

@@ -1,0 +1,10 @@
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\bin\Debug\netcoreapp3.1\Personal.API.exe
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\obj\Debug\netcoreapp3.1\Personal.API.csprojAssemblyReference.cache
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\obj\Debug\netcoreapp3.1\staticwebassets\Personal.API.StaticWebAssets.Manifest.cache
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\obj\Debug\netcoreapp3.1\staticwebassets\Personal.API.StaticWebAssets.xml
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\obj\Debug\netcoreapp3.1\Personal.API.AssemblyInfoInputs.cache
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\obj\Debug\netcoreapp3.1\Personal.API.AssemblyInfo.cs
+C:\Pessoal\ProjetosVS\Personal\Personal\Personal.API\obj\Debug\netcoreapp3.1\Personal.API.RazorTargetAssemblyInfo.cache
