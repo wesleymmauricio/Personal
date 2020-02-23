@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj": {}
+    "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj": {
+    "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj",
         "projectName": "Personal.Domain",
-        "projectPath": "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj",
+        "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj",
         "packagesPath": "C:\\Users\\wesley.mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.Domain\\obj\\",
+        "outputPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wesley.mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

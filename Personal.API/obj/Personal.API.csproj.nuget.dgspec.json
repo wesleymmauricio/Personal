@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.API\\Personal.API.csproj": {}
+    "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.API\\Personal.API.csproj": {}
   },
   "projects": {
-    "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.API\\Personal.API.csproj": {
+    "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.API\\Personal.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.API\\Personal.API.csproj",
+        "projectUniqueName": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.API\\Personal.API.csproj",
         "projectName": "Personal.API",
-        "projectPath": "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.API\\Personal.API.csproj",
+        "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.API\\Personal.API.csproj",
         "packagesPath": "C:\\Users\\wesley.mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Pessoal\\ProjetosVS\\Personal\\Personal\\Personal.API\\obj\\",
+        "outputPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wesley.mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,7 +26,17 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Application\\Personal.Application.csproj": {
+                "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Application\\Personal.Application.csproj"
+              },
+              "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj": {
+                "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj"
+              },
+              "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Repository\\Personal.Repository.csproj": {
+                "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Repository\\Personal.Repository.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -61,7 +71,177 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Application\\Personal.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Application\\Personal.Application.csproj",
+        "projectName": "Personal.Application",
+        "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Application\\Personal.Application.csproj",
+        "packagesPath": "C:\\Users\\wesley.mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wesley.mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj": {
+                "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj",
+        "projectName": "Personal.Domain",
+        "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj",
+        "packagesPath": "C:\\Users\\wesley.mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wesley.mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Repository\\Personal.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Repository\\Personal.Repository.csproj",
+        "projectName": "Personal.Repository",
+        "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Repository\\Personal.Repository.csproj",
+        "packagesPath": "C:\\Users\\wesley.mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wesley.mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj": {
+                "projectPath": "C:\\Users\\wesley.mauricio\\Documents\\Pessoal\\ProjetosVS\\API_Personal\\Personal\\Personal.Domain\\Personal.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
