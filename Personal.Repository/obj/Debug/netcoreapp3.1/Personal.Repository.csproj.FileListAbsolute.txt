@@ -6,3 +6,14 @@ C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\obj\Debug\netcoreapp
 C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.AssemblyInfoInputs.cache
 C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.AssemblyInfo.cs
 C:\Pessoal\ProjetosVS\Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.csproj.CopyComplete
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Repository.deps.json
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Repository.dll
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Repository.pdb
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Domain.dll
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\bin\Debug\netcoreapp3.1\Personal.Domain.pdb
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.csprojAssemblyReference.cache
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.AssemblyInfoInputs.cache
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.AssemblyInfo.cs
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.csproj.CopyComplete
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.dll
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Repository\obj\Debug\netcoreapp3.1\Personal.Repository.pdb

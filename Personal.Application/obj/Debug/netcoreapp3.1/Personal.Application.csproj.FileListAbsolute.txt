@@ -1,0 +1,11 @@
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\bin\Debug\netcoreapp3.1\Personal.Application.deps.json
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\bin\Debug\netcoreapp3.1\Personal.Application.dll
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\bin\Debug\netcoreapp3.1\Personal.Application.pdb
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\bin\Debug\netcoreapp3.1\Personal.Domain.dll
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\bin\Debug\netcoreapp3.1\Personal.Domain.pdb
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\obj\Debug\netcoreapp3.1\Personal.Application.csprojAssemblyReference.cache
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\obj\Debug\netcoreapp3.1\Personal.Application.AssemblyInfoInputs.cache
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\obj\Debug\netcoreapp3.1\Personal.Application.AssemblyInfo.cs
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\obj\Debug\netcoreapp3.1\Personal.Application.csproj.CopyComplete
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\obj\Debug\netcoreapp3.1\Personal.Application.dll
+C:\Users\wesley.mauricio\Documents\Pessoal\ProjetosVS\API_Personal\Personal\Personal.Application\obj\Debug\netcoreapp3.1\Personal.Application.pdb
